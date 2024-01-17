@@ -1,4 +1,4 @@
-# Information-Retrieval-Data-Mining (COMP0084)
+# Information-Retrieval-Data-Mining
  
 ### Coursework 1: Passage Re-ranking
 **Goal:** Build a passage re-ranking system with different query likelihood language models such as Laplace smoothing, Lidstone correction, Dirichlet smoothing ... etc.
