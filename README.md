@@ -1,5 +1,5 @@
 # Information-Retrieval-Data-Mining
- 
+These topics are part of Information Retrieval and Data Mining (COMP0084) module undertaken at UCL.
 ### Coursework 1: Passage Re-ranking
 **Goal:** Build a passage re-ranking system with different query likelihood language models such as Laplace smoothing, Lidstone correction, Dirichlet smoothing ... etc.
 
